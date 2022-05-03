@@ -5,7 +5,7 @@
 // Required: MQL-ZMQ from https://github.com/dingmaotu/mql-zmq
 #include <Zmq/Zmq.mqh>
 
-extern string PROJECT_NAME = "MetaTrader 4 Bridge";
+extern string PROJECT_NAME = "MetaTrader 4 Bridge for Nest";
 extern string ZEROMQ_PROTOCOL = "tcp";
 extern string HOSTNAME = "*";
 extern string APIKEY = "CHANGEME";
